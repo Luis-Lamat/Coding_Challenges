@@ -1,5 +1,5 @@
-Coding_Challenges
-=================
+Coding Challenges Repo
+=======================
 
 A repo to keep track of programming challenges around the web.
 
